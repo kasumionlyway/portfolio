@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.9.4",
+    "@rails/webpacker": "5.0.1",
+    "@rebass/preset": "^4.0.5",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "emotion-theming": "^10.0.27",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react_ujs": "^2.6.1",
+    "rebass": "^4.0.7"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.10.3"
+  }
+}
